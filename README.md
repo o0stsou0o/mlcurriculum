@@ -4,4 +4,4 @@ This is a high school curriculum that was written and taught by Amal Nanavati, C
 
 The overarching hope is that this curriculum can be fitted into the more advanced portions of Teknowledge's larger curriculum of serving schools in need on a global and local scale. 
 
-#![](Thank_You_Notes/No_005.png)
+![](Thank_You_Notes/1524015522657.jpg)
